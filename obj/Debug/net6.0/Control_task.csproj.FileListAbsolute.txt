@@ -1,0 +1,15 @@
+D:\Общая папка\Учеба\Control_task\bin\Debug\net6.0\Control_task.exe
+D:\Общая папка\Учеба\Control_task\bin\Debug\net6.0\Control_task.deps.json
+D:\Общая папка\Учеба\Control_task\bin\Debug\net6.0\Control_task.runtimeconfig.json
+D:\Общая папка\Учеба\Control_task\bin\Debug\net6.0\Control_task.dll
+D:\Общая папка\Учеба\Control_task\bin\Debug\net6.0\Control_task.pdb
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.csproj.AssemblyReference.cache
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.AssemblyInfoInputs.cache
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.AssemblyInfo.cs
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.csproj.CoreCompileInputs.cache
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.dll
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\refint\Control_task.dll
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.pdb
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\Control_task.genruntimeconfig.cache
+D:\Общая папка\Учеба\Control_task\obj\Debug\net6.0\ref\Control_task.dll
